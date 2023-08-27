@@ -1,2 +1,1 @@
-# Pattern_Recognition_Exersices
-Pattern Recognition Exercises for Amirkabir University
+# Pattern Recognition Exercises for Amirkabir University
